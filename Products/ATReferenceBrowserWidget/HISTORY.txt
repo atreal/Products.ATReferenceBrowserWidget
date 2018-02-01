@@ -4,7 +4,8 @@ Changelog
 2.0.10 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Replaced object wake with brain-based query.
+  [tiazma]
 
 
 2.0.9 (2013-11-21)
